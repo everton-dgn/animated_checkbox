@@ -1,17 +1,10 @@
-<div align="center">
-
-<a href="./LICENSE">![GitHub](https://img.shields.io/github/license/everton-dgn/next_styled_components_redux_tlk_pwa_boilerplate?style=plastic)</a>
-![GitHub repo size](https://img.shields.io/github/repo-size/everton-dgn/next_styled_components_redux_tlk_pwa_boilerplate?style=plastic)
-![GitHub Repo stars](https://img.shields.io/github/stars/everton-dgn/next_styled_components_redux_tlk_pwa_boilerplate?color=yellow&style=plastic)
-</div>
-
-<h1 align="center">Boilerplate Completo e atualizado com Next.js, Typescript Styled-Components, Testes, Redux Toolkit e PWA</h1>
+<h1 align="center">Checkbox animado com SVG</h1>
 
 <br />
 
 # :memo: Sobre o Projeto
 
-Este projeto é um boilerplate completo, constantemente atualizado, configurado nos mínimos detalhes para servir de base para projetos profissionais do mais alto nível.
+Este projeto é uma demonstração de um checkbox animado com SVG.
 
 <br />
 
@@ -53,11 +46,11 @@ Este projeto é um boilerplate completo, constantemente atualizado, configurado 
 
 - [x] Tema criado com styled-componentes sem uso de provider;
 
-- [x] Gerenciamento de estado global configurado e abstraído para total desacoplamento do Redux com o projeto;
-
-- [x] 100% de cobertura nos testes;
+- [x] Alta cobertura de testes;
   
 - [x] PWA instalável;
+
+- [x] Checkbox acessível;
 
 <br />
 
@@ -151,6 +144,6 @@ yarn next:lint
 
 # :closed_book: Autor
 
-Feito por [Éverton Toffanetto](https://querocriarsite.com).
+Feito por [Éverton Toffanetto](https://programadordesucesso.com).
 
 ### :link: LinkedIn: https://www.linkedin.com/in/everton-toffanetto/
